@@ -8,27 +8,9 @@ Hytale Modded is an organization founded by [xCykrix](https://github.com/xCykrix
 
 ## 🚀 Our Projects
 
-### [Hytale-Announcer](https://github.com/xCykrix/Hytale-Announcer)
+### [Announcer](https://github.com/Hytale-Modded/Announcer)
 
-A server-side Hytale mod that enables powerful announcement capabilities for server administrators.
-
-**Features:**
-- 📢 Send general announcements to all players
-- 🎯 Display custom titles and subtitles
-- 📝 Show MOTD (Message of the Day) on player join
-- ⚙️ Configurable messages and settings
-- 🛠️ Simple command-based interface
-
-**Quick Start:**
-```bash
-/title "Title Text" "Subtitle Text" 10 5 5
-/announce "Your announcement message"
-```
-
-**Links:**
-- [GitHub Repository](https://github.com/xCykrix/Hytale-Announcer)
-- [Modtale Page](https://modtale.net/mod/announcer-d887ef23-8aa5-4caa-b762-16f170db7466)
-- [CurseForge](https://www.curseforge.com/hytale/mods/announcer)
+A server-side Hytale mod that enables powerful announcement capabilities for server administrators, including custom titles, subtitles, and MOTD on player join.
 
 ## 🤝 Contributing
 
