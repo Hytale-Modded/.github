@@ -8,7 +8,7 @@ Hytale Modded is an organization founded by [xCykrix](https://github.com/xCykrix
 
 ## 🚀 Our Projects
 
-### [Announcer](https://github.com/Hytale-Modded/Announcer)
+### [Announcer](https://github.com/xCykrix/Hytale-Announcer)
 
 A server-side Hytale mod that enables powerful announcement capabilities for server administrators, including custom titles, subtitles, and MOTD on player join.
 
