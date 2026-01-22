@@ -42,7 +42,7 @@ Feel free to get involved in any of our projects!
 
 ## 📄 License
 
-All projects under the Hytale Modded organization are open source and released under the [MIT License](LICENSE).
+All projects under the Hytale Modded organization are open source and released under the [MIT License](https://github.com/Hytale-Modded/.github/blob/main/LICENSE).
 
 ## 📬 Contact
 
