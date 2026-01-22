@@ -1,0 +1,2 @@
+# .github
+Hytale Modded Metadata
